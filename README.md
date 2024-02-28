@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**tahir7malik/tahir7malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tahir Malik (Data Analyst)
+----
+Greetings 🙇🏻, <br/>
+I'm a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. <br />
+Excellent understanding and proficiency of platforms for effective data analysis, including SQL, Excel, Tableau, Power BI, Python & R. <br />
+Strong communication, organizational, and analytical skills.
+- 🔭 I’m currently working on: Data Analysis Projects
+- 🌱 I’m currently learning: Statistics & Machine Learning 
+- 📫 How to reach me: tahir.malik296@gmail.com 
+- ⚡ Fun fact: I like to make beats in my free time
+- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir7malik/) - [Twitter](https://twitter.com/tahir7malik)
+----
