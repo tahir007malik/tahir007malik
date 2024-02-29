@@ -8,5 +8,5 @@ Strong communication, organizational, and analytical skills.
 - 🌱 I’m currently learning: Statistics & Machine Learning 
 - 📫 How to reach me: tahir.malik296@gmail.com 
 - ⚡ Fun fact: I like to make beats in my free time
-- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir7malik/) - [Twitter](https://twitter.com/tahir7malik)
+- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir7malik/) - [X](https://twitter.com/tahir7malik)
 ----
