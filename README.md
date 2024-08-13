@@ -1,9 +1,8 @@
 ### Tahir Malik (Android Developer)
 ----
 Greetings 🙇🏻, <br/>
-I'm a versatile individual with experience in designing, developing, and deploying Android applications to provide seamless user experiences. <br />
-Excellent understanding and proficiency of tools and platforms for Android development, including Java, Kotlin, Android Studio, and XML. <br />
-Strong problem-solving, organizational, and coding skills.
+I love designing, developing, and deploying Android applications to provide a good user experience. <br />
+I have good understanding and proficiency of tools and platforms for Android development, including Kotlin, Android Studio, and XML. <br />
 - 🔭 I’m currently working on: Android Development Projects
 - 🌱 I’m currently learning: Jetpack Compose & Firebase Integration
 - 📫 How to reach me: tahir.malik296@gmail.com 
