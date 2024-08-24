@@ -1,7 +1,7 @@
 ### Tahir Malik (Android Developer)
 ----
 Greetings 🙇🏻, <br/>
-I love to design and develop Android applications. <br />
+I love to design and develop Android apps. <br />
 I have good understanding and proficiency of tools and platforms for Android development, including Kotlin, Android Studio, and XML. <br />
 - 🔭 I’m currently working on: Android Development Projects
 - 🌱 I’m currently learning: Jetpack Compose & Firebase Integration
