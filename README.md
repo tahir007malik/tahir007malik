@@ -2,7 +2,7 @@
 ----
 Greetings 🙇🏻, <br/>
 I love to design, develop apps & extract information from data. <br />
-I have good understanding and proficiency of tools and platforms for app development, data visualisation including Android Studio, XML, SQL. <br />
+I have good understanding and proficiency of tools and platforms for app development & data visualisation <br />
 - 🔭 I’m currently working on: Android Development Projects
 - 🌱 I’m currently learning: Jetpack Compose
 - 📫 How to reach me: tahir.malik296@gmail.com 
