@@ -1,10 +1,10 @@
-### Tahir Malik (Developer & Data Enthusiast)
+### Tahir Malik (Aspiring Data Engineer)
 ----
-Greetings 🙇🏻, <br/>
-I love to design, develop apps & extract information from data <br />
-I have good understanding and proficiency of tools and platforms for app development & data visualisation <br />
-- 🔭 I’m currently working on: Android Development Projects
-- 🌱 I’m currently learning: Jetpack Compose
+Greetings 🙇🏻, <br/> 
+I’m passionate about building data pipelines and extracting meaningful insights from data <br /> 
+I’m just starting my journey in data engineering and have a keen interest in data visualization <br />
+- 🔭 I’m currently working on: Fundamentals of Data Engineering 
+- 🌱 I’m currently learning: Fundamentals of Data Engineering
 - 📫 How to reach me: tahir.malik296@gmail.com 
 - ⚡ Fun fact: I like to make beats in my free time
 - 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir7malik/) - [X](https://twitter.com/tahir7malik)
