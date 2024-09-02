@@ -1,7 +1,6 @@
 ### Tahir Malik (Aspiring Data Engineer)
 ----
 Greetings 🙇🏻, <br/> 
-I’m passionate about building data pipelines and extracting meaningful insights from data <br /> 
 I’m just starting my journey in data engineering and have a keen interest in data visualization <br />
 - 🔭 I’m currently working on: Fundamentals of Data Engineering 
 - 🌱 I’m currently learning: Fundamentals of Data Engineering
