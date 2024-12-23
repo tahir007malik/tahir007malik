@@ -6,5 +6,5 @@ Aspiring Data Engineer who is currently learning about data pipelines, ETL proce
 - 🌱 I’m currently learning: data pipelines, ETL processes, and cloud technologies
 - 📫 How to reach me: tahir.malik296@gmail.com 
 - ⚡ Fun fact: I like to make beats in my free time
-- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir7malik/) - [X](https://twitter.com/tahir7malik)
+- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/tahir007malik/) - [X](https://twitter.com/tahir007malik)
 ----
