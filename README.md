@@ -1,7 +1,7 @@
 ### Tahir Malik (Aspiring Data Engineer)
 ----
 Greetings, <br/> 
-I am an aspiring data engineer who is currently learning about data pipelines, ETL processes, and cloud technologies and is excited to apply my technical background as I grow in this field. <br />
+I am an aspiring data engineer currently learning about data pipelines, ETL processes, and cloud technologies. I am excited to leverage my technical background and grow in this dynamic field. <br />
 - 🔭 I’m currently working on: Upskilling myself for a junior data engineer role 
 - 🌱 I’m currently learning: data pipelines, ETL processes, and cloud technologies
 - 📫 How to reach me: tahir.malik296@gmail.com 
