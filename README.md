@@ -1,6 +1,6 @@
 ### Tahir Malik (Aspiring Data Engineer)
 ----
-Greetings 🙇🏻, <br/> 
+Greetings, <br/> 
 Aspiring Data Engineer who is currently learning about data pipelines, ETL processes, and cloud technologies. <br />
 - 🔭 I’m currently working on: Upskilling myself for a junior data engineer role 
 - 🌱 I’m currently learning: data pipelines, ETL processes, and cloud technologies
