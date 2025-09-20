@@ -1,2 +1,2 @@
 ### Entrepreneur
-Building products that can solve people problems
+Building products that can solve people problems.
