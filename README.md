@@ -1,1 +1,1 @@
-Building products that can solve people problems.
+I love working with data and turning it into something meaningful. I’ve built data pipelines using AWS, Databricks, and Airflow, and I enjoy solving problems and learning something new with every project. Outside of work, I love running to clear my mind, and in my free time, I like to make my own music. You know my way of staying creative and energized.
