@@ -25,7 +25,7 @@ Software Engineer with experience in building and supporting scalable applicatio
 - **Fintech Data Migration Pipeline:** Data migration pipeline from SQL to Azure Data Lake, implementing medallion architecture with PySpark & Delta Lake to ensure consistency, accessibility, and reliability.
 
 ## Contact
-- **Email:** tahir.malik296@gmail.com
 - **Portfolio:** [Portfolio](http://www.tahir007malik.com)
+- **Email:** tahir.malik296@gmail.com
 - **LinkedIn:** [linkedin.com/in/tahir007malik](https://linkedin.com/in/tahir007malik)
 - **GitHub:** [github.com/tahir007malik](https://github.com/tahir007malik)
