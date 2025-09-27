@@ -5,7 +5,7 @@ Software Engineer with experience in building and supporting scalable applicatio
 
 ## Skills
 - **Programming Languages:** C, Python, SQL
-- **Big Data & Analytics:** Hadoop, Hive, Apache Spark, Kafka, Databricks, Airflow
+- **Big Data & Analytics:** Hadoop, Hive, Spark, Kafka, Databricks, Airflow
 - **Cloud Platforms:** AWS, Azure, GCP
 
 ## Experience
