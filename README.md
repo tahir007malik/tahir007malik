@@ -1,7 +1,7 @@
 # Software Engineer
 
 ## About Me
-Software Engineer with experience in building-supporting scalable applications, data pipelines, and cloud-based solutions. I enjoy solving complex problems and learning new technologies.
+Software Engineer with experience in building and supporting scalable applications, data pipelines, and cloud-based solutions. I enjoy solving complex problems and learning new technologies.
 
 ## Skills
 - **Programming Languages:** C, Python, SQL
@@ -26,5 +26,6 @@ Software Engineer with experience in building-supporting scalable applications, 
 
 ## Contact
 - **Email:** tahir.malik296@gmail.com
+- **Portfolio:** [Portfolio](http://www.tahir007malik.com)
 - **LinkedIn:** [linkedin.com/in/tahir007malik](https://linkedin.com/in/tahir007malik)
 - **GitHub:** [github.com/tahir007malik](https://github.com/tahir007malik)
