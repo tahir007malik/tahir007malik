@@ -1,1 +1,1 @@
-I love working with data and turning it into something meaningful. I’ve built data pipelines using Python, AWS, Azure, and Databricks. I enjoy solving problems and learning something new with every project. Outside of work, I love running to clear my mind, and in my free time, I make my own music. It’s my own way of staying creative and energized.
+# Software Engineer
