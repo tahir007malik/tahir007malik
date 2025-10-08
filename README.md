@@ -9,5 +9,5 @@ Software Engineer with experience in building and supporting scalable applicatio
 - **Cloud Platforms:** AWS, Azure, GCP
 
 ## Contact
-- **Portfolio:** [www.tahir007malik.com](http://www.tahir007malik.com)
+- **Portfolio:** [tahir007malik.com](http://www.tahir007malik.com)
 - **LinkedIn:** [linkedin.com/in/tahir007malik](https://linkedin.com/in/tahir007malik)
