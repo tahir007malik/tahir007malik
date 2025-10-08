@@ -11,4 +11,3 @@ Software Engineer with experience in building and supporting scalable applicatio
 ## Contact
 - **Portfolio:** [Portfolio](http://www.tahir007malik.com)
 - **LinkedIn:** [linkedin.com/in/tahir007malik](https://linkedin.com/in/tahir007malik)
-- **GitHub:** [github.com/tahir007malik](https://github.com/tahir007malik)
