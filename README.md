@@ -4,7 +4,7 @@
 Software Engineer with experience in building and supporting scalable applications, data pipelines, and cloud-based solutions. I enjoy solving complex problems and learning new technologies.
 
 ## Skills
-- **Programming Languages:** C, Python, SQL
+- **Programming Languages:** C, Python, SQL, JavaScript
 - **Big Data & Analytics:** Hadoop, Hive, Spark, Kafka, Databricks, Airflow
 - **Cloud Platforms:** AWS, Azure, GCP
 
